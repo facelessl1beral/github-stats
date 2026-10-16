@@ -134,25 +134,25 @@ div.ellipsis {
 <span class="progress">
 <span style="
   background-color: #41b883; 
-  width: 53.451%;
+  width: 53.637%;
 " class="progress-item"></span><span style="
   background-color: #3178c6; 
-  width: 36.673%;
+  width: 36.577%;
 " class="progress-item"></span><span style="
   background-color: #f1e05a; 
-  width: 4.427%;
+  width: 4.372%;
 " class="progress-item"></span><span style="
   background-color: #3572A5; 
-  width: 4.111%;
+  width: 4.060%;
 " class="progress-item"></span><span style="
   background-color: #663399; 
-  width: 0.945%;
+  width: 0.950%;
 " class="progress-item"></span><span style="
   background-color: #e34c26; 
   width: 0.314%;
 " class="progress-item"></span><span style="
   background-color: #384d54; 
-  width: 0.073%;
+  width: 0.084%;
 " class="progress-item"></span><span style="
   background-color: #89e051; 
   width: 0.006%;
@@ -176,7 +176,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Vue</span>
-  <span class="percent">53.45%</span>
+  <span class="percent">53.64%</span>
 </li>
 <li style="animation-delay: 300ms;">
   <svg 
@@ -192,7 +192,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">TypeScript</span>
-  <span class="percent">36.67%</span>
+  <span class="percent">36.58%</span>
 </li>
 <li style="animation-delay: 450ms;">
   <svg 
@@ -208,7 +208,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">JavaScript</span>
-  <span class="percent">4.43%</span>
+  <span class="percent">4.37%</span>
 </li>
 <li style="animation-delay: 600ms;">
   <svg 
@@ -224,7 +224,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Python</span>
-  <span class="percent">4.11%</span>
+  <span class="percent">4.06%</span>
 </li>
 <li style="animation-delay: 750ms;">
   <svg 
@@ -272,7 +272,7 @@ div.ellipsis {
       d="M8 4a4 4 0 100 8 4 4 0 000-8z"
   ></path></svg>
   <span class="lang">Dockerfile</span>
-  <span class="percent">0.07%</span>
+  <span class="percent">0.08%</span>
 </li>
 <li style="animation-delay: 1200ms;">
   <svg 
